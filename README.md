@@ -49,6 +49,7 @@ Business Photo Tracker API enables users to store and retrieve business data and
 * [Ampqlib][ampqlib-url]
 * [MongoDB][mongo-url]
 * [RabbitMQ][rabbitmq-url]
+* [Multer][multer-url]
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -160,3 +161,4 @@ Notes:
 [ampqlib-url]: https://www.npmjs.com/package/amqplib
 [mongo-url]: https://hub.docker.com/_/mongo/
 [rabbitmq-url]: https://hub.docker.com/_/rabbitmq
+[multer-url]: https://www.npmjs.com/package/multer
